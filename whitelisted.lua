@@ -14,6 +14,7 @@ whitelist = {
 [3186821139] = true, -- buyer
 [3129250357] = true, -- buyer
 [147824175] = true, -- buyer
-[3677686610] = true -- buyer
+[3677686610] = true, -- buyer
+[390953418] = true -- buy
 }
 return whitelist
